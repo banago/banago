@@ -22,7 +22,7 @@ With a get-things-done attitude, I always strive to find elegant solutions to co
 - PHP/Laravel App Development
 - CLI App Development
 - Web Server Setup
-- 
+  
 ### ⚙️ Tech Stack
 ![Bootstrap](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=WordPress&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=SQLite&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=React.js&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=Apache&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=Nginx&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&color=3b3b4e) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&color=3b3b4e)
 
