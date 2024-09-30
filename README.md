@@ -3,12 +3,6 @@
 **I'm a full-stack WordPress engineer with extensive experience in the WordPress platform and deep
 expertise in PHP, JavaScript and Linux servers.**
 
-I am proficient in developing state-of-the-art themes and feature-rich plugins, fully embracing the new paradigm of developing Gutenberg blocks with React.js.
-
-I thrive in collaborative environments and foster positive relationships with superiors and subordinates. I love mentoring fellow team members and leading my team to new technical heights and better products.
-
-With a get-things-done attitude, I always strive to find elegant solutions to complex problems. My commitment to excellence and dedication to delivering results set me apart in the field.
-
 ### 🖥 Skills
 
 - WordPress Theme Development
