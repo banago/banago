@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Baki
 
-**I'm a full-stack WordPress engineer with extensive experience in the WordPress platform and deep
+**I'm a full-stack web engineer with extensive experience in the WordPress platform and deep
 expertise in PHP, JavaScript and Linux servers.**
 
 ### 🖥 Skills
